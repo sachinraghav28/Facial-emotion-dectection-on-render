@@ -3,10 +3,12 @@ keras>=3.0.0
 opencv-python
 matplotlib
 numpy
-echo "flask
+flask
 opencv-python
 numpy
 tensorflow>=2.11.0
 keras
 deepface
-pillow"> requirements.txt
+pillow
+scikit-learn
+scipy
