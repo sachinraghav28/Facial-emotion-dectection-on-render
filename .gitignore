@@ -1,0 +1,70 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+.python-version
+
+# macOS system files
+.DS_Store
+
+# PyInstaller
+*.spec
+dist/
+build/
+
+# Logs
+*.log
+
+# IDEs
+.vscode/
+.idea/
+
+# Test and coverage
+.coverage
+htmlcov/
+.tox/
+.nox/
+pytest_cache/
+
+# Model files / Weights (optional - comment if needed)
+*.h5
+*.hdf5
+*.pb
+*.pt
+*.tflite
+*.onnx
+
+# Dataset and media (optional - include only necessary files)
+dataset/
+*.csv
+*.json
+*.zip
+*.tar.gz
+*.jpg
+*.jpeg
+*.png
+*.mp4
+*.avi
+
+# Output folders
+outputs/
+checkpoints/
+runs/
+saved_models/
+
+# Environment config
+.env
+.env.*
+
+# System-specific
+Thumbs.db
+ehthumbs.db
